@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppMED</string>
+    <string-array name="class_List">
+        <item>Babacar</item>
+        <item>Herver</item>
+        <item>Am dal</item>
+        <item>Magueye</item>
+    </string-array>
+</resources>
